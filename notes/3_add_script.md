@@ -7,5 +7,3 @@ Add script in `package.json` to run code through Babel.
   "start": "babel-node src/index.js"
 }
 ```
-
-`babel-node` used for local dev only.
